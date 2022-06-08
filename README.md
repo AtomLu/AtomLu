@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AtomLu
-- 👀 I’m interested in Data
+- 👀 I’m interested in Data, Statistics and Planet Earth :)
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on new projecs.
 - 📫 How to reach me : luciagcorrea85@gmail.com 
