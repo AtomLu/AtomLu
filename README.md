@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AtomLu Data Analyst :)
-- 🌱 I love being involved in Data and Planet Earth 
+- 🌱 I love working with Data and take my time to take care of Planet Earth 
 - 💞️ I’m looking to collaborate on new projecs.
 - 📫 How to reach me : luciagcorrea85@gmail.com 
 
